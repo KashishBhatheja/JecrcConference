@@ -1,0 +1,22 @@
+.divine{
+  justify-content: center;
+}
+.img{
+  width: 100%;
+  height: 100%;
+}
+body{
+  font-size: 17px;
+}
+nav{
+  font-size: 19px;
+}
+@media only screen and (max-width: 992px) {
+nav{
+  font-size: 35px;
+  text-align: right;
+}
+body{
+  font-size: 28px;
+}
+}
